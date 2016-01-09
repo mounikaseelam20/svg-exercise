@@ -1,0 +1,10 @@
+#grid {
+    stroke: skyblue;
+    stroke-width: 2
+}
+
+#circle {
+    stroke:red ;
+    stroke-width:1;
+    fill:pink;
+}
